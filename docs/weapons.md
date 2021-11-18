@@ -19,3 +19,4 @@
 | ![alt text](Weapons/Psg1.png "Weapon") | 16 | Combat Sniper | SNIPERRIFLE |
 | ![alt text](Weapons/Rifle.png "Weapon") | 17 | Sniper Rifle | M40A1 |
 | ![alt text](Weapons/Rpg.png "Weapon") | 18 | RPG | RLAUNCHER |
+| ![alt text](Weapons/none.png "Weapon") | 19 | 	Fthrower(eflc) | 	FTHROWER |
